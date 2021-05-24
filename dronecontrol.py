@@ -1,6 +1,6 @@
-"""
-Simple script for take off and control with arrow keys
-"""
+
+#Simple script for take off and control with arrow keys
+
 
 
 import time
